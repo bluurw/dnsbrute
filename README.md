@@ -17,7 +17,7 @@ Um script simples em C para força bruta de subdomínios DNS usando uma wordlist
 1. **Clone ou baixe o código-fonte:**
 
 ```bash
-git clone https://github.com/seu-usuario/dnsbrute.git
+git clone https://github.com/bluurw/dnsbrute.git
 cd dnsbrute
 ```
 
