@@ -1,0 +1,2 @@
+gcc main.c -o dnsbrute
+./dnsbrute example.com wordlist.txt
